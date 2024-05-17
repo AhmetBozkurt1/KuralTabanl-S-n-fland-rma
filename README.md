@@ -1,1 +1,1 @@
-# KuralTabanl-S-n-fland-rma
+# Rule-Based-Customer-Classification
